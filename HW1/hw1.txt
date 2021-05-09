@@ -1,0 +1,11 @@
+CSCI 572 Homework Assignment 1 :  Web Search Engine Comparison                                            |
+Student Name: Rohan Amod Marathe Student ID: 8907326499 Assigned TA: Jay Rajendrakumar Shah               |
+-----------------------------------------------------------------------------------------------------------
+Assigned Search Engine: DuckDuckGo
+
+The results obtained using Duck Duck Go do not show a strong correlation when compared with Google results.
+The average overlap between the results was 1.44 and the average overlap percentage was 14.4 =,
+The average value of Spearman's coefficient was -2.3914285714285715 which does not show a strong corelation.
+Considering google to be the best search engine, it can be said that Duck Duck Go does not perform as good as
+Google taking these results into consideration.
+------------------------------------------------------------------------------------------------------------
