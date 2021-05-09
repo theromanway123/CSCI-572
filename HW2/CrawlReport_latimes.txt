@@ -1,0 +1,43 @@
+Name: Rohan Amod Marathe
+USC ID: 8907326499
+News site crawled: latimes.com
+Number of threads: 16
+
+Fetch Statistics
+================
+# fetches attempted: 19997
+# fetches succeeded: 19399
+# fetches failed or aborted: 598
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2674368
+# unique URLs extracted: 1506302
+# unique URLs within News Site: 193154
+# unique URLs outside News Site: 1313148
+
+Status Codes:
+=============
+200 OK: 19399
+301 Moved Permanently: 451
+302 Found: 15
+307 Temporary Redirect: 48
+400 Bad Request: 2
+404 Not Found: 81
+500 Internal Server Error: 1
+
+File Sizes:
+===========
+< 1KB: 24
+1KB ~ <10KB: 73
+10KB ~ <100KB: 816
+100KB ~ <1MB: 17682
+>= 1MB: 32
+
+Content Types:
+==============
+image/gif: 4
+image/jpeg: 52
+image/png: 118
+image/svg+xml: 1
+text/html: 18452
